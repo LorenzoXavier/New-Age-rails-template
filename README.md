@@ -1,24 +1,24 @@
-# README
+# Project Title
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Start bootstrap New Age template working on Rails
 
-Things you may want to cover:
+<a href="https://imgflip.com/gif/321iwj"><img src="https://i.imgflip.com/321iwj.gif" title="New age Template"/></a>
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+Please :star: my Repo
 
-* Configuration
+git clone into your repo.
 
-* Database creation
 
-* Database initialization
+### Installing
 
-* How to run the test suite
+Standard rails set up to get it working, dont forget to
 
-* Services (job queues, cache servers, search engines, etc.)
+```
+bundle install
+```
+## Authors
 
-* Deployment instructions
+* **Lorenzo Xavier** [LorenzoXavier - Github](https://github.com/LorenzoXavier)
 
-* ...
