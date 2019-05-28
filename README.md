@@ -2,7 +2,7 @@
 
 Start bootstrap New Age template working on Rails
 
-<a href="https://imgflip.com/gif/321iwj"><img src="https://i.imgflip.com/321iwj.gif" title="New age Template"/></a>
+<a href="https://imgflip.com/gif/321j5d"><img src="https://i.imgflip.com/321j5d.gif" title="New Age Template"/></a>
 
 ## Getting Started
 
